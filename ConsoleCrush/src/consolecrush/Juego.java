@@ -158,6 +158,9 @@ public class Juego extends javax.swing.JFrame {
             case 5:
                 icono = new ImageIcon(getClass().getResource("/Imagenes/Planeta5.png"));
                 break;
+            case 6:
+                icono = new ImageIcon(getClass().getResource("/Imagenes/plsRecurso 36.png"));
+                break;    
             case 10:
                 icono = new ImageIcon(getClass().getResource("/Imagenes/Explosion.jpg"));
                 break;
